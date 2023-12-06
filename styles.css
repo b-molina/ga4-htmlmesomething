@@ -1,1 +1,77 @@
 /* Write your CSS here! */
+body {
+    background: linear-gradient(360deg, #dfa1a9 0%, #ffdde1 100%);
+    margin: 8px;
+    display: block;
+    font-family: cursive;
+    text-align: center;
+
+  }
+
+#mainHeading {
+    color: red;  }
+
+  p {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+#sophieBackground {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/02/59/74/66/1000_F_259746689_KlwAz2aufL9XLJTxa4fDCWgYBbU5Xe2h.jpg");
+    background-size: contain;
+}
+
+  #testP {
+    background-color: hsla(0, 0%, 100%, 0.831);
+    padding: 30px;
+  }
+
+  #reeseBackground {
+    background-image: url("https://i.pinimg.com/originals/b0/a9/f4/b0a9f4471b5b7feaed849ef7c5b5510a.jpg"); 
+    background-size: contain;
+}
+  p.funParagraph {
+    color: green;
+    background-color: hsla(0, 0%, 100%, 0.831);
+    padding: 30px;
+  }
+  
+  #venusBackground {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/02/59/74/66/1000_F_259746689_KlwAz2aufL9XLJTxa4fDCWgYBbU5Xe2h.jpg");
+    background-size: contain;
+  }
+
+  p.moreFun {
+    background-color: hsla(0, 0%, 100%, 0.831);
+    padding: 30px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+  }
+
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+      }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    padding: 0px 10px;
+    text-decoration:underline;
+  }
+  
+
+  footer {
+    margin-top: 60px;
+    text-align: center;
+  }
